@@ -1,0 +1,15 @@
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\obj\Debug\net6.0\SOLID_Example.csproj.AssemblyReference.cache
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\obj\Debug\net6.0\SOLID_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\obj\Debug\net6.0\SOLID_Example.AssemblyInfoInputs.cache
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\obj\Debug\net6.0\SOLID_Example.AssemblyInfo.cs
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\obj\Debug\net6.0\SOLID_Example.csproj.CoreCompileInputs.cache
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\bin\Debug\net6.0\SOLID_Example.exe
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\bin\Debug\net6.0\SOLID_Example.deps.json
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\bin\Debug\net6.0\SOLID_Example.runtimeconfig.json
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\bin\Debug\net6.0\SOLID_Example.dll
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\bin\Debug\net6.0\ref\SOLID_Example.dll
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\bin\Debug\net6.0\SOLID_Example.pdb
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\obj\Debug\net6.0\SOLID_Example.dll
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\obj\Debug\net6.0\ref\SOLID_Example.dll
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\obj\Debug\net6.0\SOLID_Example.pdb
+C:\Users\evren\source\repos\SOLID_Example\SOLID_Example\obj\Debug\net6.0\SOLID_Example.genruntimeconfig.cache
